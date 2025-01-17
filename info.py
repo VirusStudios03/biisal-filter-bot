@@ -17,7 +17,7 @@ API_ID = int(environ.get('API_ID', '22549633'))
 API_HASH = environ.get('API_HASH', '34d8c9887fe445c1dac2228cbdf9ab48')
 BOT_TOKEN = environ.get('BOT_TOKEN', '')
 
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '2057170163 6835418766 7802198323').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '2057170163 6835418766').split()]
 USERNAME = environ.get('USERNAME', "https://t.me/Filter_Bots_Support_Bot")
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001995831309'))
 MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/+K1NZBcq2mZ1lMzA1')
