@@ -107,7 +107,11 @@ User - {}"""
 ❗️ ʟᴀɴɢᴜᴀɢᴇ - {languages}</b>
 """
 
-    FILE_CAPTION = """<a href='https://t.me/+K1NZBcq2mZ1lMzA1'><b>{file_name}</b></a>\n\n<blockquote>#𝗩𝟮_𝗣𝗿𝗲𝗺𝗶𝘂𝗺 – #𝘽𝙚𝙨𝙩 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙋𝙧𝙚𝙢𝙞𝙪𝙢 𝙈𝙤𝙫𝙞𝙚𝙨 𝘼𝙣𝙙 𝙒𝙚𝙗 𝙎𝙚𝙧𝙞𝙚𝙨 𝙀𝙣𝙩𝙚𝙧𝙩𝙖𝙞𝙣𝙢𝙚𝙣𝙩 𝘾𝙝𝙖𝙣𝙣𝙚𝙡.</blockquote>\n\n✨𝗝𝗼𝗶𝗻 𝗣𝗿𝗲𝗺𝗶𝘂𝗺 –「 @V2_Premium 」"""
+    FILE_CAPTION = """<a href='https://t.me/+K1NZBcq2mZ1lMzA1'><b>{file_name}</b></a>
+    
+<blockquote>#𝗩𝟮_𝗣𝗿𝗲𝗺𝗶𝘂𝗺 – #𝘽𝙚𝙨𝙩 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙋𝙧𝙚𝙢𝙞𝙪𝙢 𝙈𝙤𝙫𝙞𝙚𝙨 𝘼𝙣𝙙 𝙒𝙚𝙗 𝙎𝙚𝙧𝙞𝙚𝙨 𝙀𝙣𝙩𝙚𝙧𝙩𝙖𝙞𝙣𝙢𝙚𝙣𝙩 𝘾𝙝𝙖𝙣𝙣𝙚𝙡.</blockquote>
+    
+✨𝗝𝗼𝗶𝗻 𝗣𝗿𝗲𝗺𝗶𝘂𝗺 –「 @V2_Premium 」"""
 
     RESTART_TXT = """<b>
 📅 Dᴀᴛᴇ : <code>{}</code>
