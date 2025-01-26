@@ -1,4 +1,3 @@
-> Vɪʀᴜs 🦠:
 class script(object): 
     START_TXT = """<b> 👋 ʜᴇʟʟᴏ {} {}, 
      
@@ -90,8 +89,6 @@ sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ 
     NEW_GROUP_TXT = """#New_Group {} 
  
 Group name - {}
-
-> Vɪʀᴜs 🦠:
 Id - <code>{}</code> 
 Group username - @{} 
 Group link - {} 
